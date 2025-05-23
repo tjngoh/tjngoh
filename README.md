@@ -77,9 +77,5 @@
 
 ###
 
-### 🐍 Snake eating my contributions
-
-<img src="https://raw.githubusercontent.com/tjngoh/tjngoh/output/github-contribution-grid-snake.svg" />
-
 ###
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF007FC5&height=120&section=footer"/>
