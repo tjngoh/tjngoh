@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
-<img align="right" height="159" src="https://i.pinimg.com/originals/4e/77/a8/4e77a8c2b74b4ced590341f6ee62f9e5.jpg"  />
+<img align="right" height="159" src="https://i.pinimg.com/originals/4e/77/a8/4e77a8c2b74b4ced590341f6ee62f9e5.jg"  />
 
 
 
