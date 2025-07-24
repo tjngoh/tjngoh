@@ -79,3 +79,13 @@
 
 ###
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF007FC5&height=120&section=footer"/>
+
+---
+
+###
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tjngoh/tjngoh/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tjngoh/tjngoh/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/berilovania/tjngoh/tjngoh/output/pacman-contribution-graph.svg">
+</picture>
